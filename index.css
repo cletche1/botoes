@@ -1,9 +1,3 @@
-/*.teste{
-display: grid;
-grid-template-columns: 15px auto 15px;
-grid-template-rows: 15px auto 50px;
-}*/
-
 
 .main_container{
     display: flex;
@@ -31,16 +25,11 @@ height: 100px;
 
 }
 
-
-
-/* Ajuste de cabeçalho*/
 .ajsute{
     display: flex;
     flex-direction: column;
      margin-left: 550px;
      margin-top: 100px;
-   
-
 }
 .titulo{
 display: flex;
@@ -48,7 +37,6 @@ display: flex;
 font-size: 55px;
 color:rgb(119, 140, 224);
 margin: 0px;
-
 
 }
 
@@ -64,10 +52,8 @@ margin: 0px;
     font-size: 35px;
     margin: 0px;
     margin-left: 70px;
-  
+}  
 
-}
-/*------------------------------------------------------------------------*/
 .span_rounded{
    
     display: flex;
@@ -76,15 +62,7 @@ margin: 0px;
    padding-top: 30px;
    padding-left: 20px;
    padding-bottom: 30px;
-
-   /* margin-left: 20px;
-    margin-top: 30px;*/
- 
-
-
-
 }
-/*---------------------------------------*/
 
 .bt {
   
@@ -101,20 +79,15 @@ margin: 0px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
-.outline{
-
-
-}
 
 .outline:hover{
 
-   /* background: rgb(5, 240, 248); */
     color: rgb(5, 240, 248);
 
 }
 .disable_d {
     border-color: #e7e7e7;
-    /*color: black;*/
+
 }
 .disable_d:disabled{
 
@@ -143,8 +116,6 @@ margin: 0px;
     color: white;
 }
 
-/*segundo article*/
-
 .btn {
   
     border: 2px solid rgb(230, 115, 172);
@@ -160,8 +131,6 @@ margin: 0px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
-
-/*terceiro article*/
 
 .bttn {
   
@@ -179,7 +148,6 @@ margin: 0px;
     
 }
 
-/*Quarto article*/
 
 .btnn {
   
