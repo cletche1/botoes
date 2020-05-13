@@ -67,16 +67,12 @@
     height: 100px;
 }
 
-/*---------------------------------------*/
-
 .bt {
     outline: none;
     border: 2px solid rgb(5, 240, 248);
     background-color: white;
     color: black;
     padding: 14px 28px;
-    /* width: 120px;
-    height: 50px;*/
     font-size: 16px;
     cursor: pointer;
     border-radius: 30px;
@@ -86,13 +82,11 @@
 
 
 .outline:hover {
-    /* background: rgb(5, 240, 248); */
     color: rgb(5, 240, 248);
 }
 
 .disable_d {
     border-color: #e7e7e7;
-    /*color: black;*/
 }
 
 .disable_d:disabled {
@@ -119,9 +113,6 @@
     color: white;
 }
 
-
-/*segundo article*/
-
 .btn {
     border: 2px solid rgb(230, 115, 172);
     background-color: white;
@@ -136,9 +127,6 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-
-/*terceiro article*/
-
 .bttn {
     border: 2px solid rgb(119, 140, 224);
     background-color: white;
@@ -152,10 +140,6 @@
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
-
-/*Quarto article*/
-
 .btnn {
     border: 2px solid rgb(240, 10, 209);
     background-color: white;
